@@ -4,7 +4,7 @@
  * main - Entry point
  * printf - Prints to screen
  *
- * return: Always 0 (Success)
+ * return: Always 1 (Success)
  */
 int main(void)
 {
